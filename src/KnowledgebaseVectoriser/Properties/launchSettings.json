@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KnowledgebaseVectoriser": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
